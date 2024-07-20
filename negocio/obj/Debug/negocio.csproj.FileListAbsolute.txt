@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\Desktop\TPFinalNivel2_Juncos\negocio\obj\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Curso C# Nivel 3\9. TP\TP\TPIntegrador\negocio\obj\Debug\negocio.pdb
